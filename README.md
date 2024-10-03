@@ -1,2 +1,2 @@
 # Precision-Agriculture
-Precision Agriculture | IoT, ML, HTML, CSS, JavaScript, Flask, Node.js, and SQL |
+Precision Agriculture | IoT, ML, Deep Learning, HTML, CSS, JavaScript, Flask, Node.js, and SQL |
